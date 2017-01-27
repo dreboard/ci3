@@ -2,7 +2,6 @@
 	"description": "CodeIgniter 3 framework project",
 	"name": "dreboard/ci3",
 	"require": {
-		"php": ">=5.6.*",
 		"smarty/smarty": "~3.1",
 		"nesbot/carbon": "~1.18"
 	}
