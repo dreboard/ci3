@@ -20,7 +20,7 @@ class Welcome extends MY_Controller {
 	}
 	public function index()
 	{
-		$data['elapsed_time'] = 30;
-		$this->ci_smarty->view('welcome', $data);
+		$this->ci_smarty->assign("elapsed_time", "30");
+		$this->ci_smarty->view('welcome');
 	}
 }

@@ -1,3 +1,25 @@
+<?php
+/* Smarty version 3.1.31, created on 2017-01-28 00:50:55
+  from "C:\xampp\htdocs\CodeIgniter\ci3\application\views\templates\welcome.tpl" */
+
+/* @var Smarty_Internal_Template $_smarty_tpl */
+if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
+  'version' => '3.1.31',
+  'unifunc' => 'content_588bdcdf404a51_79622977',
+  'has_nocache_code' => false,
+  'file_dependency' => 
+  array (
+    'b739cdca60b8f241698820ccf9963704edc426f0' => 
+    array (
+      0 => 'C:\\xampp\\htdocs\\CodeIgniter\\ci3\\application\\views\\templates\\welcome.tpl',
+      1 => 1485559591,
+      2 => 'file',
+    ),
+  ),
+  'cache_lifetime' => 120,
+),true)) {
+function content_588bdcdf404a51_79622977 (Smarty_Internal_Template $_smarty_tpl) {
+?>
 <html lang="en">
 <head>
     <meta charset="utf-8">
@@ -79,8 +101,9 @@
         <p>If you are exploring CodeIgniter for the very first time, you should start by reading the <a href="user_guide/">User Guide</a>.</p>
     </div>
 
-    <p class="footer">Page rendered in <strong>{$elapsed_time}</strong> seconds.</p>
+    <p class="footer">Page rendered in <strong>30</strong> seconds.</p>
 </div>
 
 </body>
-</html>
+</html><?php }
+}
