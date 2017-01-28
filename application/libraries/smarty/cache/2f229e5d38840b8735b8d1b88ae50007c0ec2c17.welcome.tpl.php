@@ -1,38 +1,39 @@
 <?php
-/* Smarty version 3.1.31, created on 2017-01-28 02:56:03
+/* Smarty version 3.1.31, created on 2017-01-28 08:14:14
   from "C:\xampp\htdocs\CodeIgniter\ci3\application\views\welcome.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_588bfa33c79318_02231272',
+  'unifunc' => 'content_588c44c6cb54f4_88407561',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '9a62e0faa37979272efbc6c60922d942694dc0b4' => 
     array (
       0 => 'C:\\xampp\\htdocs\\CodeIgniter\\ci3\\application\\views\\welcome.tpl',
-      1 => 1485568557,
+      1 => 1485568848,
       2 => 'file',
     ),
     '5b64957fe8f62b4b1497cfd2eb482b52950b10d7' => 
     array (
       0 => 'C:\\xampp\\htdocs\\CodeIgniter\\ci3\\application\\views\\inc\\header.tpl',
-      1 => 1485563330,
+      1 => 1485585894,
       2 => 'file',
     ),
     '8cbb477681d6a2f5d0dbe35fbda6113ef36c3f02' => 
     array (
       0 => 'C:\\xampp\\htdocs\\CodeIgniter\\ci3\\application\\views\\inc\\footer.tpl',
-      1 => 1485562493,
+      1 => 1485568848,
       2 => 'file',
     ),
   ),
   'cache_lifetime' => 120,
 ),true)) {
-function content_588bfa33c79318_02231272 (Smarty_Internal_Template $_smarty_tpl) {
+function content_588c44c6cb54f4_88407561 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
-    <html lang="en">
+    <!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -100,7 +101,7 @@ function content_588bfa33c79318_02231272 (Smarty_Internal_Template $_smarty_tpl)
         <div class="row">
             <div class="col-lg-12">
                 <div class="well text-center">
-                    This is a well that is a great spot for a business tagline or phone number for easy access!
+                    CodeIgniter 3 has a 2MB download, including the user guide.
                 </div>
             </div>
             <!-- /.col-lg-12 -->

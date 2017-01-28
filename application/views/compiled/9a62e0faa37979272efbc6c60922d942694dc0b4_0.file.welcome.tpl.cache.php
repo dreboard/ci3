@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.31, created on 2017-01-28 02:56:03
+/* Smarty version 3.1.31, created on 2017-01-28 08:14:14
   from "C:\xampp\htdocs\CodeIgniter\ci3\application\views\welcome.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_588bfa33851e55_99589177',
+  'unifunc' => 'content_588c44c680bc95_81519074',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '9a62e0faa37979272efbc6c60922d942694dc0b4' => 
     array (
       0 => 'C:\\xampp\\htdocs\\CodeIgniter\\ci3\\application\\views\\welcome.tpl',
-      1 => 1485568557,
+      1 => 1485568848,
       2 => 'file',
     ),
   ),
@@ -22,8 +22,8 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
     'file:inc/footer.tpl' => 1,
   ),
 ),false)) {
-function content_588bfa33851e55_99589177 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '25799588bfa33758332_51788876';
+function content_588c44c680bc95_81519074 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '15050588c44c64efc15_95734093';
 ?>
     <?php $_smarty_tpl->_subTemplateRender('file:inc/header.tpl', $_smarty_tpl->cache_id, $_smarty_tpl->compile_id, 9999, $_smarty_tpl->cache_lifetime, array(), 0, false);
 ?>
@@ -82,7 +82,7 @@ $_smarty_tpl->compiled->nocache_hash = '25799588bfa33758332_51788876';
         <div class="row">
             <div class="col-lg-12">
                 <div class="well text-center">
-                    This is a well that is a great spot for a business tagline or phone number for easy access!
+                    CodeIgniter 3 has a 2MB download, including the user guide.
                 </div>
             </div>
             <!-- /.col-lg-12 -->

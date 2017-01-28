@@ -1,18 +1,18 @@
 <?php
-/* Smarty version 3.1.31, created on 2017-01-28 02:56:03
+/* Smarty version 3.1.31, created on 2017-01-28 08:14:14
   from "C:\xampp\htdocs\CodeIgniter\ci3\application\views\inc\header.tpl" */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.31',
-  'unifunc' => 'content_588bfa339c5d53_42326240',
+  'unifunc' => 'content_588c44c6a0b799_42036591',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
     '5b64957fe8f62b4b1497cfd2eb482b52950b10d7' => 
     array (
       0 => 'C:\\xampp\\htdocs\\CodeIgniter\\ci3\\application\\views\\inc\\header.tpl',
-      1 => 1485563330,
+      1 => 1485585894,
       2 => 'file',
     ),
   ),
@@ -20,9 +20,10 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_588bfa339c5d53_42326240 (Smarty_Internal_Template $_smarty_tpl) {
-$_smarty_tpl->compiled->nocache_hash = '15092588bfa339c1bc3_95136899';
+function content_588c44c6a0b799_42036591 (Smarty_Internal_Template $_smarty_tpl) {
+$_smarty_tpl->compiled->nocache_hash = '17467588c44c6a06a05_89739414';
 ?>
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">

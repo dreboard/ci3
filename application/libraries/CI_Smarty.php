@@ -1,6 +1,7 @@
 <?php
 if ( ! defined('BASEPATH')) exit('No direct script access allowed');
- 
+
+require_once 'C:\xampp\htdocs\CodeIgniter\ci3\vendor\smarty\smarty\libs\Smarty.class.php';
 class CI_Smarty extends Smarty {
  
     public function __construct()
