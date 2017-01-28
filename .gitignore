@@ -27,4 +27,3 @@ log/*
 /.idea
 /js/libs/
 /css/bootstrap-sass-3.3.7/
-!/vendor/
